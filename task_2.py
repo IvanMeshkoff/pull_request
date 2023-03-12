@@ -15,7 +15,6 @@
 original_login = 'Василий'
 original_password = 'vas'
 original_age = 45
-
 login = input('Введите ваше имя: ')
 password = input('Введите пароль: ')
 age = int(input('Введите пароль: '))
